@@ -26,7 +26,8 @@ voice_mapping = {
     'sage': 'en-US-JennyNeural',
     'shimmer': 'en-US-EmmaNeural',
     'verse': 'en-US-BrianNeural',
-    'xiaoxiao': 'zh-CN-XiaoxiaoMultilingualNeural'
+    'xiaoxiao': 'zh-CN-XiaoxiaoMultilingualNeural',
+    'yunxiao': 'zh-CN-YunxiaoMultilingualNeural'
 }
 
 model_data = [
