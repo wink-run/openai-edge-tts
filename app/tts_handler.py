@@ -26,8 +26,19 @@ voice_mapping = {
     'sage': 'en-US-JennyNeural',
     'shimmer': 'en-US-EmmaNeural',
     'verse': 'en-US-BrianNeural',
-    'xiaoxiao': 'zh-CN-XiaoxiaoMultilingualNeural',
-    'yunxiao': 'zh-CN-YunxiaoMultilingualNeural'
+    'xiaoxiao-multilingual': 'zh-CN-XiaoxiaoMultilingualNeural',
+    'yunxiao-multilingual': 'zh-CN-YunxiaoMultilingualNeural',
+    'xiaoyu-multilingual': 'zh-CN-XiaoyuMultilingualNeural',
+    'xiaochen-multilingual': 'zh-CN-XiaochenMultilingualNeural',
+    'xiaoyan-multilingual': 'zh-CN-YunyiMultilingualNeural',
+    'xiaoxiao': 'zh-CN-XiaoxiaoNeural',
+    'yunxi': 'zh-CN-YunxiNeural',
+    'yunfan-multilingual': 'zh-CN-YunfanMultilingualNeural',
+    'amanda-multilingual': 'en-US-AmandaMultilingualNeural',
+    'ava-multilingual': 'en-US-AvaMultilingualNeural',
+    'andrew-multilingual': 'en-US-AndrewMultilingualNeural',
+    'adam-multilingual': 'en-US-AdamMultilingualNeural',
+    'ollie-multilingual': 'en-GB-OllieMultilingualNeural'
 }
 
 model_data = [
